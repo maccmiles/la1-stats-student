@@ -1,0 +1,6 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.LA1aGrading#testZero: +20
+edu.wit.cs.comp1000.grading.LA1aGrading#testIntInput: +40
+edu.wit.cs.comp1000.grading.LA1aGrading#testDecInput: +40
